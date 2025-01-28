@@ -2,7 +2,7 @@ Libraries created with Eagle 7.7.0 Ultimate
 
 ![](images/barrel.png)  
 ReusedBarrelConnector.lbr  
-Because I wanted to reuse a barrel connector from a scapped laptop power supply.  
+Because I wanted to reuse a barrel connector from a scrapped laptop with the power supply still working.  
   
 ![](images/module.png)  
 TestFlipflopModule.lbr  
